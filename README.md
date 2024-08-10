@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/digitalvasanth/articles](https://auth.geeksforgeeks.org/user/digitalvasanth/articles)
 
-- 💬 Ask me about **Blockchain and Financel**
+- 💬 Ask me about **Blockchain and Finance**
 
 - 📫 How to reach me **digitalvasanth01@gmail.com**
 
