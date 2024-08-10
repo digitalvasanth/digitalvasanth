@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/digital_vasanth" target="blank"><img src="https://img.shields.io/twitter/follow/digital_vasanth?logo=twitter&style=for-the-badge" alt="digital_vasanth" /></a> </p>
 
-- 🌱 I’m currently learning **Front End Development and Blockchain.** 
+- 🌱 I’m currently learning **DSA and Blockchain.** 
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/digitalvasanth/articles](https://auth.geeksforgeeks.org/user/digitalvasanth/articles)
 
