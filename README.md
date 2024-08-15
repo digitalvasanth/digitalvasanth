@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/digitalvasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digitalvasanth" height="30" width="40" /></a>
 <a href="https://instagram.com/digital_vasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="digital_vasanth" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/digitalvasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="digitalvasanth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/digital_vasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="digital_vasanth" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/digitalvasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="digital_vasanth" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/digitalvasanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="digitalvasanth" height="30" width="40" /></a>
 </p>
 
